@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Boldonse&display=swap');
+body{ font-family: "Boldonse", system-ui;
+    background-color:rgb(0, 115, 133);
+
+}
+section{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.menu ul li{
+    display: inline-block;
+}
