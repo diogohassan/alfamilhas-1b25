@@ -73,3 +73,54 @@ footer{
     padding: 10px;
     color: rgb(9, 18, 26);
 }
+.depoimentos{
+    text-align: center;
+}
+.depoimentos h3{
+    color: #444;
+    font-weight: bold;
+}
+.depoimentos h2{
+    font-size: 35px;
+color: #444;
+font-weight: bold;
+padding: 20px;
+}
+.depoimentos img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+.depoimentos .descriçao{
+    font-size: 12px;
+    font-weight: normal;
+    padding: 30px 0;
+}
+.depoimentos .nome{
+    color: #444;
+    font-weight: bold;
+}
+.sobre{
+    background: url(escritorios-do-google.jpg)
+    50% / cover no-repeat fixed;
+}
+.sobre .texto{
+    width: 50%;
+    background-color: #444;
+    color: #c9c1c1;
+    padding: 40px;
+    height: 270px;
+}
+.texto h2{
+    font-size: 50px;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+.texto h2, .texto p{
+    max-width: 570px;
+float: right;
+clear: both;
+}
+.viagens{
+    padding: 40px 0;
+}
